@@ -1,4 +1,4 @@
-package access;
+package access.b;
 
 import access.a.AccessData;
 
