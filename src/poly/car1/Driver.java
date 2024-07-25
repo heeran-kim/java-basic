@@ -1,6 +1,8 @@
 package poly.car1;
 
 public class Driver {
+    // OCP
+    // Closed for modification
     private Car car;
 
     public void setCar(Car car) {
